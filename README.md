@@ -1,7 +1,7 @@
 StackedPhotos
 =============
 
-A stacked photo collection view for UICollectionView on IOS 6. 
+A stacked photo collection view for UICollectionView on IOS 6. (Xcode 4.6, IOS >= 6.0)
 
 ## Framework
 * CoreGraphics.framework
