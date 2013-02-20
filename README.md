@@ -6,7 +6,7 @@ A stacked photo collection view for UICollectionView on IOS 6.
 ## Framework
 * CoreGraphics.framework
 
-## 3rd Part Library
+## 3rd Part Library (Used to show images)
 * Nimbus
 * AFNetworking
 
