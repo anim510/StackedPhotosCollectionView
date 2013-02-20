@@ -1,7 +1,7 @@
 StackedPhotos
 =============
 
-A stacked photo layout for UICollectionView on IOS 6
+A stacked photo layout for UICollectionView on IOS 6.
 
 ## Screen Shot
 ![ScreenShot1](http://github.com/anim510/StackedPhotosCollectionView/raw/master/TestStackedPhotos/ScreenShot1.png)
