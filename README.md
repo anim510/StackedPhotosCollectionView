@@ -3,9 +3,17 @@ StackedPhotos
 
 A stacked photo collection view for UICollectionView on IOS 6. 
 
+## Framework
+* CoreGraphics.framework
+
+## 3rd Part Library
+* Nimbus
+* AFNetworking
+
 ## Screen Shot
-![ScreenShot1](http://github.com/anim510/StackedPhotosCollectionView/raw/master/TestStackedPhotos/ScreenShot1.png)
-![ScreenShot2](http://github.com/anim510/StackedPhotosCollectionView/raw/master/TestStackedPhotos/ScreenShot2.png)
+[![Alt][screenshot1]][screenshot1]    [![Alt][screenshot2]][screenshot2]
+[screenshot1]: http://github.com/anim510/StackedPhotosCollectionView/raw/master/TestStackedPhotos/ScreenShot1.png
+[screenshot2]: http://github.com/anim510/StackedPhotosCollectionView/raw/master/TestStackedPhotos/ScreenShot2.png
 
 ## License
 
